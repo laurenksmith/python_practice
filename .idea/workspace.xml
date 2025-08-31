@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="Created a number guessing game - really fun!">
+    <list default="true" id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="Added some info to my loops file about iterables.">
+      <change afterPath="$PROJECT_DIR$/calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756641516408</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added some info to my loops file about iterables.">
+      <option name="closed" value="true" />
+      <created>1756646759808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756646759808</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +143,7 @@
     <MESSAGE value="Now adding my dictionary exercise." />
     <MESSAGE value="A couple of changes to my dictionary activities" />
     <MESSAGE value="Created a number guessing game - really fun!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a number guessing game - really fun!" />
+    <MESSAGE value="Added some info to my loops file about iterables." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some info to my loops file about iterables." />
   </component>
 </project>
