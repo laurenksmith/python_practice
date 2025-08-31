@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="A couple of changes to my dictionary activities">
-      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number_guessing_game.py" afterDir="false" />
+    <list default="true" id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="Created a number guessing game - really fun!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.Practice with Ry.executor": "Run",
-    "Python.Sparta_Academy_Collections.executor": "Run",
-    "Python.Sparta_Academy_Control_Flow.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.number_guessing_game.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.Practice with Ry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sparta_Academy_Collections.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sparta_Academy_Control_Flow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -119,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756482576540</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created a number guessing game - really fun!">
+      <option name="closed" value="true" />
+      <created>1756641516408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756641516408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +134,7 @@
     <MESSAGE value="Now adding my lists exercise." />
     <MESSAGE value="Now adding my dictionary exercise." />
     <MESSAGE value="A couple of changes to my dictionary activities" />
-    <option name="LAST_COMMIT_MESSAGE" value="A couple of changes to my dictionary activities" />
+    <MESSAGE value="Created a number guessing game - really fun!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a number guessing game - really fun!" />
   </component>
 </project>
