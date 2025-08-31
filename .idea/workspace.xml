@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="Created a basic calculator">
-      <change afterPath="$PROJECT_DIR$/scrabble_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="Added the ability for the user to input a particular word to be calculated." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +40,7 @@
     "Python.calc.executor": "Run",
     "Python.main.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
+    "Python.scrabble_calc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -143,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756647323452</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Created a scrabble calculator.">
+      <option name="closed" value="true" />
+      <created>1756648081566</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756648081566</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added the ability for the user to input a particular word to be calculated.">
+      <option name="closed" value="true" />
+      <created>1756648447582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756648447582</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +168,8 @@
     <MESSAGE value="Created a number guessing game - really fun!" />
     <MESSAGE value="Added some info to my loops file about iterables." />
     <MESSAGE value="Created a basic calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a basic calculator" />
+    <MESSAGE value="Created a scrabble calculator." />
+    <MESSAGE value="Added the ability for the user to input a particular word to be calculated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the ability for the user to input a particular word to be calculated." />
   </component>
 </project>
