@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="Added the ability for the user to input a particular word to be calculated.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30JlKfzSNDaFwZhMmkOqmTrutvp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.Practice with Ry.executor": "Run",
+    "Python.Sparta_Academy_Collections.executor": "Run",
+    "Python.Sparta_Academy_Control_Flow.executor": "Run",
+    "Python.calc.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.number_guessing_game.executor": "Run",
+    "Python.scrabble_calc.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b5e9ebd-baa9-487e-8c31-d80beddff2b1" name="Changes" comment="" />
+      <created>1753353493545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753353493545</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Practising my Python coding with Sparta Academy.">
+      <option name="closed" value="true" />
+      <created>1756395824491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756395824491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Now adding my lists exercise.">
+      <option name="closed" value="true" />
+      <created>1756397142522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756397142522</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Now adding my dictionary exercise.">
+      <option name="closed" value="true" />
+      <created>1756482255533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756482255533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="A couple of changes to my dictionary activities">
+      <option name="closed" value="true" />
+      <created>1756482576540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756482576540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created a number guessing game - really fun!">
+      <option name="closed" value="true" />
+      <created>1756641516408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756641516408</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added some info to my loops file about iterables.">
+      <option name="closed" value="true" />
+      <created>1756646759808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756646759808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created a basic calculator">
+      <option name="closed" value="true" />
+      <created>1756647323452</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756647323452</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created a scrabble calculator.">
+      <option name="closed" value="true" />
+      <created>1756648081566</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756648081566</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added the ability for the user to input a particular word to be calculated.">
+      <option name="closed" value="true" />
+      <created>1756648447582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756648447582</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added the ability for the user to input a particular word to be calculated.">
+      <option name="closed" value="true" />
+      <created>1756648809874</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756648809874</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practising my Python coding with Sparta Academy." />
+    <MESSAGE value="Now adding my lists exercise." />
+    <MESSAGE value="Now adding my dictionary exercise." />
+    <MESSAGE value="A couple of changes to my dictionary activities" />
+    <MESSAGE value="Created a number guessing game - really fun!" />
+    <MESSAGE value="Added some info to my loops file about iterables." />
+    <MESSAGE value="Created a basic calculator" />
+    <MESSAGE value="Created a scrabble calculator." />
+    <MESSAGE value="Added the ability for the user to input a particular word to be calculated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the ability for the user to input a particular word to be calculated." />
+  </component>
+</project>
