@@ -41,4 +41,7 @@ def scrabble_calc(word):
 
     return word_score
 
-print(scrabble_calc('zoo'))
+
+# print(scrabble_calc('zoo'))
+user_word = input("Enter a word: ").lower()
+print("The score is:", scrabble_calc(user_word))
