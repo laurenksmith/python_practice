@@ -8,7 +8,7 @@ Equality operators:
      >          |        greater than    |       3 > 4 (False)
      <          |         less than      |       3 < 4 (True)
     >=          |greater than or equal to|       5 >= 5 (True)
-    ==      e    | less than or equal to  |       5 <= 4 (False)
+    <=          | less than or equal to  |       5 <= 4 (False)
 """
 
 # customer_age = 19

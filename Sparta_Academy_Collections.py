@@ -10,17 +10,29 @@ the number in the square bracket indicates which item on the list to return. 0 =
 To return an item from the END of the queue, use -. So, -1 would return the very last item in the list,
 -2 would return the second last item etc.
 
-
-# shopping_list = ["bread", "eggs", "cheese"]
-
+Lists are always ordered
+Allow for duplicates
+"""
+shopping_list = ["bread", "eggs", "cheese"]
+"""
 # shopping_list[1] = "bananas" # replaces an item in the index with this item. 0=first item, so 1 = 2nd item
-
-# shopping_list.append("mushrooms") # adds an item to the end of our index
-
+"""
+shopping_list.append("mushrooms") # adds an item to the end of our index
+"""
 # shopping_list.pop() # removes the last item on the list
 
 # shopping_list.pop(0) # removes a specific item from the list, using the index value. 0 = first item etc
 
+# shopping_list.remove("cheese") # removes that specific item from the list.
+
+Lists do not care about data types. Dynamically typed, list would be formatted afterwards.
+"""
+extra_items = ["apple", "banana", "cherry"]
+
+shopping_list.extend(extra_items) # extend takes each individual item within the ONE added item as separate objects to be added to the list. So - you can only extend by adding one item, normally another list. If you added one ITEM this way, it would add each character separately.
+
+print(shopping_list)
+"""
 # print(shopping_list.index("eggs"))
 
 search function. This allows you to find a specific item in your list by returning it's index value.
@@ -58,11 +70,11 @@ print(contact_list)
 
 print(contact_list.pop("jane"))
 """
-
-theList = []
-theList.append(1234)
-theList.append(4567)
-theList.append(99)
-theList.append(5)
-
-print(len(theList))
+#
+# theList = []
+# theList.append(1234)
+# theList.append(4567)
+# theList.append(99)
+# theList.append(5)
+#
+# print(len(theList))
